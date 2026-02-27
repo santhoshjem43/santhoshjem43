@@ -3,10 +3,10 @@
 I'm a passionate **Full Stack Developer** in the making, currently enrolled at **NxtWave Academy** 🚀
 
 ---
-
+    
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** Bachelor of Computer Applications (BCA) — Kakatiya University, 2025
+- 🎓 **Education:** Bachelor of Commerce specilization in  Computer Applications (Bcom CA) — Kakatiya University, 2025
 - 🏫 **Currently:** Student at NxtWave Academy, learning Full Stack Development
 - 🌱 **Currently Learning:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - 🔭 **Working on:** Industry-related hands-on projects
